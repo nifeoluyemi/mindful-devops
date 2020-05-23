@@ -1,3 +1,5 @@
+### IBM Cloud Registry
+
 
 ### JFrog Artifactory
 
@@ -15,6 +17,9 @@
 
 
 ### Harbor
+
+
+### OSS distribution
 
 
 ### Red Hat Quay
