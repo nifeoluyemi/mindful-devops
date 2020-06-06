@@ -26,3 +26,15 @@
 
 
 ### Nexus Repository Manager
+
+
+### Dragonfly
+
+
+### Codefresh Registry
+
+
+### Uber Kraken
+
+
+### Suse Portus

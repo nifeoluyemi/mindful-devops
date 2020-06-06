@@ -82,7 +82,7 @@
 ### Magnum CI
 
 
-### QuickBuild
+### PMEase QuickBuild
 
 
 ### Nevercode
@@ -100,6 +100,9 @@
 ### Apache Continuum
 
 
+### Apache Gump
+
+
 ### XL Deploy
 
 
@@ -115,7 +118,7 @@
 ### Octopus Deploy
 
 
-### Autorabit
+### AutoRabit
 
 
 ### Buildkite
@@ -145,6 +148,9 @@
 ### Flux CD
 
 
+### Apollo
+
+
 ### Harness
 
 
@@ -164,3 +170,36 @@
 
 
 ### Weave Flagger
+
+
+### Zuul CI
+
+
+### Flosum CI
+
+
+### Copado CI
+
+
+### Eclipse Hudson
+
+
+### Razorops
+
+
+### AutoApply
+
+
+### Ksphere Dispatch
+
+
+### KubeCI
+
+
+### Keel
+
+
+### AirWare Vili
+
+
+### Werf
