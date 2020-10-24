@@ -7,9 +7,9 @@ A curated set of resources to enable your team increase the quality of Software 
 
 ## Backup and Disaster Recovery 
 
-- Veeam | [Website](https://www.veeam.com/vm-backup-recovery-replication-software.html) 
-- Druva Phoenix | [Website]()
-- VMWare Velero | [Website]()
+- Veeam | <a href="https://www.veeam.com/vm-backup-recovery-replication-software.html" target="_blank">Website</a>
+- Druva Phoenix | <a href="#" target="_blank">Website</a>
+- VMWare Velero | <a href="#" target="_blank">Website</a>
 - VMware SRM
 - Altaro VM Backup
 - Carbonite Server
